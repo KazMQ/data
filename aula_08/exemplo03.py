@@ -33,7 +33,8 @@ def buscar_vendedor(nome):
         if cadastro["Nome"] == nome:
             resp = cadastro["Nome"]
             v1 = cadastro["Valor"]
-
+            return resp, v1
+        return resp, v1
 
 
 qtd = int(input("Quantas pessoas serão cadastradas: "))
