@@ -1,0 +1,31 @@
+codigo_produto,produto,preco,categoria
+101,Smartphone XYZ,1200.0,Eletronicos
+102,Laptop ABC,2500.0,Eletronicos
+103,Fone de Ouvido,300.0,Acessorios
+104,Tablet 4K,1500.0,Eletronicos
+105,Monitor LED,800.0,Eletronicos
+106,Teclado Mecanico,400.0,Acessorios
+107,Mouse Gamer,150.0,Acessorios
+108,Impressora Multifuncional,600.0,Eletronicos
+109,Cafeteira Expresso,250.0,Eletrodomesticos
+110,Geladeira Frost Free,2000.0,Eletrodomesticos
+111,Microondas Digital,450.0,Eletrodomesticos
+112,Fogao 4 Bocas,800.0,Eletrodomesticos
+113,Ventilador de Mesa,120.0,Eletrodomesticos
+114,Purificador de Agua,300.0,Eletrodomesticos
+115,Smartwatch,700.0,Acessorios
+116,Camera DSLR,2500.0,Fotografia
+117,Drone,1500.0,Fotografia
+118,Batedeira Planetaria,350.0,Eletrodomesticos
+119,Liquidificador,200.0,Eletrodomesticos
+120,Aspirador de Po,500.0,Eletrodomesticos
+121,Roteador Wi-Fi,150.0,Eletronicos
+122,Placa de Video,1200.0,Eletronicos
+123,SSD 1TB,800.0,Eletronicos
+124,Fonte Modular,400.0,Eletronicos
+125,Gabinete Gamer,300.0,Eletronicos
+126,Headset Bluetooth,250.0,Acessorios
+127,Carregador Portatil,100.0,Acessorios
+128,Smart Speaker,350.0,Eletronicos
+129,Lampada Inteligente,80.0,Eletronicos
+130,Controle Remoto Universal,70.0,Acessorios
