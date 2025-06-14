@@ -19,7 +19,7 @@ try:
     df_ocorrencia = df_ocorrencia[["munic", 'roubo_veiculo']]
     #Totalizando
     df_roubo_veiculo = df_ocorrencia.groupby('munic').sum(['roubo_veiculo'])
-    
+    df_roubo_veiculo = df_ocorrencia.groupby('munic').sum(['roubo_veiculo']).reset_index()
    
     #print(df_roubo_veiculo.to_string())
 
@@ -105,6 +105,7 @@ try:
 except Exception as e:
     print(F"ERRO {e}")
 
+df_roubo_veiculo = df_ocorrencia.groupby('munic').sum(['roubo_veiculo']).reset_index()
 # pip install matplotlib
 
 try:
