@@ -86,3 +86,28 @@ GROUP BY
   tb_itens_emprestados.id_emprestimo
 ORDER BY 
   tb_itens_emprestados.id_emprestimo;
+	
+
+  -- MOSTRAR OS CLIENTES QUE ALUGARAM, AS DATAS DOS ALUGUÉIS E OS TOTAIS DE CADA CLIENTE
+  /*
+SELECT 
+  tb_usuarios.id_usuario,
+  tb_usuarios.nome,
+  tb_emprestimos.data_emprestimo,
+  SUM(tb_livros.valor_emprestimo) AS total_livros
+FROM 
+  tb_itens_emprestados
+JOIN 
+  tb_livros ON tb_itens_emprestados.id_livro = tb_livros.id_livro
+JOIN 
+  tb_emprestimos ON tb_itens_emprestados.id_emprestimo = tb_emprestimos.id_emprestimo
+JOIN 
+  tb_usuarios ON tb_emprestimos.id_usuario = tb_usuarios.id_usuario
+GROUP BY 
+  tb_usuarios.id_usuario,
+  tb_usuarios.nome, 
+  tb_emprestimos.data_emprestimo
+ORDER BY 
+  tb_usuarios.id_usuario,
+  tb_emprestimos.data_emprestimo;
+  /*
