@@ -1,0 +1,75 @@
+cisp,regiao,munic,roubo_veiculo,flag
+17,Capital,Rio de Janeiro,7505,mais
+20,Capital,Rio de Janeiro,8911,mais
+21,Capital,Rio de Janeiro,19279,mais
+22,Capital,Rio de Janeiro,14858,mais
+23,Capital,Rio de Janeiro,10612,mais
+24,Capital,Rio de Janeiro,11418,mais
+25,Capital,Rio de Janeiro,10792,mais
+26,Capital,Rio de Janeiro,7518,mais
+27,Capital,Rio de Janeiro,26905,mais
+28,Capital,Rio de Janeiro,10771,mais
+29,Capital,Rio de Janeiro,15532,mais
+30,Capital,Rio de Janeiro,12360,mais
+31,Capital,Rio de Janeiro,14428,mais
+32,Capital,Rio de Janeiro,7940,mais
+33,Capital,Rio de Janeiro,17592,mais
+34,Capital,Rio de Janeiro,27001,mais
+35,Capital,Rio de Janeiro,18789,mais
+37,Capital,Rio de Janeiro,7321,mais
+38,Capital,Rio de Janeiro,19332,mais
+39,Capital,Rio de Janeiro,28264,mais
+40,Capital,Rio de Janeiro,18534,mais
+44,Capital,Rio de Janeiro,14285,mais
+52,Baixada Fluminense,Nova Iguaçu,15023,mais
+53,Baixada Fluminense,Mesquita,8190,mais
+54,Baixada Fluminense,Belford Roxo,23967,mais
+56,Baixada Fluminense,Nova Iguaçu,11522,mais
+57,Baixada Fluminense,Nilópolis,12257,mais
+58,Baixada Fluminense,Nova Iguaçu,15657,mais
+59,Baixada Fluminense,Duque de Caxias,36274,mais
+60,Baixada Fluminense,Duque de Caxias,19513,mais
+62,Baixada Fluminense,Duque de Caxias,8667,mais
+64,Baixada Fluminense,São João de Meriti,31386,mais
+72,Grande Niterói,São Gonçalo,13594,mais
+73,Grande Niterói,São Gonçalo,13456,mais
+74,Grande Niterói,São Gonçalo,17461,mais
+75,Grande Niterói,São Gonçalo,9745,mais
+78,Grande Niterói,Niterói,8401,mais
+11,Capital,Rio de Janeiro,16,menos
+45,Capital,Rio de Janeiro,27,menos
+91,Interior,Valença,49,menos
+92,Interior,Rio das Flores,8,menos
+94,Interior,Piraí;Pinheiral,53,menos
+95,Interior,Vassouras,88,menos
+96,Interior,Miguel Pereira;Paty dos Alferes,43,menos
+97,Interior,Mendes,23,menos
+98,Interior,Engenheiro Paulo de Frontin,17,menos
+100,Interior,Porto Real;Quatis,85,menos
+101,Interior,Pinheiral,43,menos
+104,Interior,São José do Vale do Rio Preto,20,menos
+107,Interior,Paraíba do Sul,61,menos
+111,Interior,Sumidouro,39,menos
+112,Interior,Carmo,48,menos
+132,Interior,Arraial do Cabo,54,menos
+135,Interior,Itaocara,24,menos
+136,Interior,Santo Antônio de Pádua;Aperibé,63,menos
+137,Interior,Miracema,6,menos
+138,Interior,Laje do Muriaé,2,menos
+139,Interior,Porciúncula,7,menos
+140,Interior,Natividade;Varre-Sai,7,menos
+141,Interior,São Fidélis,77,menos
+142,Interior,Cambuci,9,menos
+143,Interior,Itaperuna;São José de Ubá,63,menos
+143,Interior,Itaperuna;São José de Ubá;Cardoso Moreira;Italva,25,menos
+144,Interior,Bom Jesus de Itabapoana,19,menos
+146,Interior,Campos dos Goytacazes;São Francisco de Itabapoana,31,menos
+148,Interior,Cardoso Moreira;Italva,26,menos
+152,Interior,Duas Barras,13,menos
+153,Interior,Cantagalo,58,menos
+154,Interior,Cordeiro;Macuco,21,menos
+155,Interior,São Sebastião do Alto,29,menos
+156,Interior,Santa Maria Madalena,47,menos
+157,Interior,Trajano de Morais,20,menos
+158,Interior,Bom Jardim,21,menos
+168,Interior,Rio Claro,62,menos
